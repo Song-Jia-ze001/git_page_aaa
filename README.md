@@ -1,1 +1,6 @@
-# git_page_aaa
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
